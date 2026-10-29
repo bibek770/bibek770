@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **react,java script,ui/ux**
 
-- 📫 How to reach me **kumarbibek768@gmail.com**
+- 📫 How to reach me **bibekkumardas5175@gmail.com**
   
 - ⚡ Fun fact **i think i am funny**
 
