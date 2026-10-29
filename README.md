@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **AI based business dash board**
 
-- 📝 want to know more ABOUT my work [blog.bibek.in](https://bibek-personal-portfolio.netlify.app/)
+- 📝 want to know more ABOUT my work [personal-portfolio](https://bibek-personal-portfolio.netlify.app/)
 
 - 💬 Ask me about **react,java script,ui/ux**
 
