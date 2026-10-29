@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **FULL stack developement & Advanced Frontend Tools & Libraries**
 
-- 👯 I’m looking to collaborate on ** AI based solution's **
+- 👯 I’m looking to collaborate on  AI based solution's 
 
 - 📝 want to know more ABOUT my work [personal-portfolio](https://bibek-personal-portfolio.netlify.app/)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **bibekkumardas5175@gmail.com**
   
-- ⚡ Fun fact ** I talk to my code more than I TALK to people**
+- ⚡ Fun fact  I talk to my code more than I TALK to people
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
