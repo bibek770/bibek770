@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibek770&label=Profile%20views&color=0e75b6&style=flat" alt="bibek770" /> </p>
 
-- 🔭 I’m currently working on **food delevery website**
+- 🔭 I’m currently working on **Ai Based web apps**
 
 - 🌱 I’m currently learning **FULL stack developement & Advanced Frontend Tools & Libraries**
 
-- 👯 I’m looking to collaborate on **AI based business dash board**
+- 👯 I’m looking to collaborate on ** AI based solution's **
 
 - 📝 want to know more ABOUT my work [personal-portfolio](https://bibek-personal-portfolio.netlify.app/)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **bibekkumardas5175@gmail.com**
   
-- ⚡ Fun fact **i think i am funny**
+- ⚡ Fun fact ** I talk to my code more than I TALK to people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
